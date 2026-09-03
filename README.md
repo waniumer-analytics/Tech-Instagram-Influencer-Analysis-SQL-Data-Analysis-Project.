@@ -7,16 +7,17 @@ In this project, I performed an end-to-end SQL analysis of Instagram influencer 
 
 
 ## Key areas covered:
-• Post type performance analysis
-• Highest and lowest impressions
-• Weekend content analysis
-• Monthly profile visits and follower growth
-• Post category performance based on likes
-• Monthly content category analysis
-• Reach contribution by post type
-• Quarterly comments and saves analysis
-• Top follower-growth dates using window functions
-• Reusable reporting using Stored Procedures.
+
+1.  Post type performance analysis
+2.  Highest and lowest impressions
+3.  Weekend content analysis
+4. Monthly profile visits and follower growth
+5. Post category performance based on likes
+6. Monthly content category analysis
+7. Reach contribution by post type
+8. Quarterly comments and saves analysis
+9. Top follower-growth dates using window functions
+10. Reusable reporting using Stored Procedures.
 
 ## Key Insights
 
@@ -27,15 +28,16 @@ In this project, I performed an end-to-end SQL analysis of Instagram influencer 
 5. Specific dates generated significant spikes in new follower acquisition.
 
 ## SQL concepts used:
-• Joins
-• Aggregate Functions
-• GROUP BY
-• CASE Statements
-• Common Table Expressions (CTEs)
-• Window Functions
-• ROW_NUMBER()
-• GROUP_CONCAT()
-• Stored Procedures
+
+1. Joins
+2. Aggregate Functions
+3. GROUP BY
+4. CASE Statements
+5. Common Table Expressions (CTEs)
+6. Window Functions
+7. ROW_NUMBER()
+8. GROUP_CONCAT()
+9.  Stored Procedures
 
 The objective of this project was not only to answer SQL questions but also to translate data into meaningful business insights and actionable recommendations.
 
