@@ -2,6 +2,10 @@
 
 In this project, I performed an end-to-end SQL analysis of Instagram influencer activity data to uncover insights related to content performance, audience engagement, reach, and follower growth. The analysis was conducted using MySQL and included three related tables containing content, account, and date-level data.
 
+<img width="1672" height="941" alt="ChatGPT Image Sep 3, 2026, 02_51_32 PM" src="https://github.com/user-attachments/assets/9a3bc078-45e4-4a14-ae97-f5ce005ca1b6" />
+
+
+
 ## Key areas covered:
 • Post type performance analysis
 • Highest and lowest impressions
@@ -43,6 +47,9 @@ The objective of this project was not only to answer SQL questions but also to t
 wani Umar
 
 ## Linkedin
+
+
+https://www.linkedin.com/posts/waniumer-analytics_dataanalytics-sql-mysql-share-7501209034427994113-66GF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE
 
 ## Video Presentation
 
