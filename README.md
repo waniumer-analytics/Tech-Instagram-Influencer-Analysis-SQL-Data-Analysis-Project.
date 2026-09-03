@@ -1,6 +1,5 @@
 ##  Tech-Instagram-Influencer-Analysis-SQL-Data-Analysis-Project.
 
-
 In this project, I performed an end-to-end SQL analysis of Instagram influencer activity data to uncover insights related to content performance, audience engagement, reach, and follower growth. The analysis was conducted using MySQL and included three related tables containing content, account, and date-level data.
 
 ## Key areas covered:
@@ -13,7 +12,15 @@ In this project, I performed an end-to-end SQL analysis of Instagram influencer 
 • Reach contribution by post type
 • Quarterly comments and saves analysis
 • Top follower-growth dates using window functions
-• Reusable reporting using Stored Procedures
+• Reusable reporting using Stored Procedures.
+
+## Key Insights
+
+1. IG Reels contributed the highest share of total reach at 61.63%.
+2. May and June showed significant account growth in profile visits and new followers.
+3. Other Gadgets and Tech Tips performed strongly in terms of likes during July.
+4. Content performance varies across post types, categories, and time periods.
+5. Specific dates generated significant spikes in new follower acquisition.
 
 ## SQL concepts used:
 • Joins
