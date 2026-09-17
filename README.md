@@ -54,5 +54,4 @@ wani Umar
 https://www.linkedin.com/posts/waniumer-analytics_dataanalytics-sql-mysql-share-7501209034427994113-66GF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE
 
 ## Video Presentation
-
-https://youtu.be/hNp7r652noU 
+https://www.youtube.com/embed/hNp7r652noU
